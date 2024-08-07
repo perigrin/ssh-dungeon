@@ -1,0 +1,1 @@
+cpanm -l local https://github.com/perigrin/perl-games-rot.git Games::Dice
